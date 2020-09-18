@@ -3,6 +3,7 @@
 My projects:
 
 -  [Hashgrid](https://github.com/chainvisions/hashgrid-contracts) - Incentivized computations on the Thundercore blockchain
+-  [Zing Finance](https://zing.finance) - Decentralized finance on Thundercore
 
 ## My Github Stats
 
