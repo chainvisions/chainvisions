@@ -4,6 +4,7 @@ My projects:
 
 -  [Hashgrid](https://github.com/chainvisions/hashgrid-contracts) - Incentivized computations on the Thundercore blockchain
 -  [Zing Finance](https://zing.finance) - Decentralized finance on Thundercore
+-  [sats.tools](https://sats.tools) - A collection of tools for Bitcoin
 
 ## My Github Stats
 
