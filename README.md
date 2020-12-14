@@ -3,7 +3,7 @@
 My projects:
 
 -  [Zing Finance](https://zing.finance) - Decentralized finance on Thundercore
--  [sats.tools](https://sats.tools) - A collection of tools for Bitcoin
+-  [Belugaswap](https://belugaswap.org) - An AMM and yield farming protocol that enhances yields
 
 ## My Github Stats
 
